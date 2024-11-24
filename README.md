@@ -18,17 +18,22 @@ There are about 65,000 traffic-related violation reports in the traffic infracti
 ## Data_Quality_Assessment
 
 We must take into account a number of elements in order to evaluate the data’s quality:
+
 •	VALIDITY: Although the dataset seems to have a legitimate structure, more validation procedures are required to verify the accuracy of specific entries. 
-•	ACCURACY: While accuracy is normally good, certain verifications are necessary to verify sure all inputs make sense, such as those pertaining to age and timings.
+•	ACCURACY:  While accuracy is normally good, certain verifications are necessary to verify sure all inputs make sense, such as those pertaining to age and timings.
 •	COMPLETENESS: The analysis may be impacted by a few missing values. It is essential to make sure all fields are filled in or to handle missing information properly.
 •	CONSISTENCY: Although the format on the data appears consistent, uniformity tests are necessary, particularly for categorical data.
 •	UNIFORMITY: To keep the dataset uniform, standardizing units and formats is essential.
-Impact_of_Data_Dirtiness
+
+
+## Impact_of_Data_Dirtiness
+
+
 •	Inconsistencies and missing values can greatly distort the analysis and produce false conclusions.
 •	Inaccurate age or time data can have an impact on how patterns in violator demographics and violation timing are understood.
 •	It may be more difficult to aggregate and compare records if the data is not uniform.
 •	We should handle missing values in the dataset, confirm the accuracy of the entries, and make sure the data formats are consistent and uniform in order to prepare it for a through analysis.
--------------------------------------
+
 
 ## Executive Synopsis
 
