@@ -37,7 +37,8 @@ We must take into account a number of elements in order to evaluate the data’s
 
 ## Executive Synopsis
 
-     Using the Traffic offenses Dataset, this project examines the association between gender and the type of traffic offenses. Our goal in examining this dataset  is to determine whether the kinds of violations committed and the gender of the violators are significantly correlated., in order to arrive at insightful conclusions, the analysis involves computing correlation coefficients, producing visuals , and using pivot tables to summarize the data.
+
+Using the Traffic offenses Dataset, this project examines the association between gender and the type of traffic offenses. Our goal in examining this dataset  is to determine whether the kinds of violations committed and the gender of the violators are significantly correlated., in order to arrive at insightful conclusions, the analysis involves computing correlation coefficients, producing visuals , and using pivot tables to summarize the data.
 Aims and Objectives
 General Aims
 •	To Examine the correlation between the sex  of transgressors and the types of transgressions committed.
@@ -50,27 +51,33 @@ Detailed Objectives
 
 ## THE RESEARCH QUESTION
 
+
 Identifying Variables:
 •	Dependent variable: Category of violation
 •	Independent variable: violators’ gender 
 
 ## ANALYSIS AND FINDINGS
-
 ### Correlation Analysis:
+
      We will apply the Chi-Square test for independence, appropriate for categorical data, to evaluate the association between gender and the category of violation.
 
 #### Interpretation of Correlation Results:
+
      If a statistically significant association exists between gender and the category of violation, it is indicated the Chi-Square test result.  A Substantial correlation is suggested by a p-value of less than 0.05.
 ## Visualizations
+
 1.	Bar Plot of Violations by Gender.
 2.	Pie Chart Gender Distribution in Violations.
 Interpretation of Visualizations:
 •	The Bar Plot illustrates how males and females differ in the frequency of infraction categories.
 •	The Pie Chart illustrates the entire distribution of traffic infractions by gender.
+
 ## Final Answer to the Research Question
+
      The analysis reveals whether there is a significant correlation between gender and category of traffic violation. If a significant correlation is found, it suggests that gender influences the type of traffic violations committed.
 
 ## Critical Comment on Conclusions
+
      The analysis’s insights can be used to better understand the demographic trends in traffic infractions. Which can guide the development of targeted programs and  policies.
 
 ## Reflection
@@ -86,6 +93,7 @@ What Went Wrong
      Future Benefits
 •	Improved understanding of data analysis techniques.
 •	Better preparation for handling real-world data issues in future projects.
+
 ## References
 1.Shubamsumbria.Traffic Violations Dataset. Retrieved from Kaggle: Link, Traffic and Drugs Related Violations Dataset (kaggle.com)
 2. McKinney, W.(2017). Python for Data Analysis. O’Reilly Media.
